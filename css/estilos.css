@@ -52,6 +52,14 @@ ol{
     text-transform: uppercase;
 }
 
+strong{
+    text-decoration: solid;
+}
+
+em{
+    text-decoration: wavy;
+}
+
 img{
     width: 30%;
     border-radius: 50px;
